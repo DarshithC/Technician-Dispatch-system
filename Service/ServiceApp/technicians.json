@@ -1,0 +1,26 @@
+[
+  {
+    "TechId": 1,
+    "Name": "Elice",
+    "Skills": [
+      "HVAC"
+    ],
+    "HourlyRate": 24
+  },
+  {
+    "TechId": 2,
+    "Name": "Jhon",
+    "Skills": [
+      "Plumbing"
+    ],
+    "HourlyRate": 15
+  },
+  {
+    "TechId": 3,
+    "Name": "Mark",
+    "Skills": [
+      "Electrical"
+    ],
+    "HourlyRate": 20
+  }
+]

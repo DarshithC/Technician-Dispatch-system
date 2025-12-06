@@ -1,0 +1,20 @@
+[
+  {
+    "CustomerId": 1,
+    "Name": "Daivik",
+    "Phone": "1234567890",
+    "Address": "Mysore"
+  },
+  {
+    "CustomerId": 2,
+    "Name": "Alex",
+    "Phone": "2183651392",
+    "Address": "Banglore"
+  },
+  {
+    "CustomerId": 3,
+    "Name": "Bob",
+    "Phone": "7439718253",
+    "Address": "Banglore"
+  }
+]

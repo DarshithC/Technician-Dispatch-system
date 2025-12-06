@@ -1,0 +1,62 @@
+[
+  {
+    "RequestId": 1,
+    "CustomerId": 2,
+    "TechId": 2,
+    "Description": "Plumbing",
+    "ScheduledStart": "2025-12-06T21:52:02.0416667+05:30",
+    "ScheduledEnd": "2025-12-06T23:52:02.0416667+05:30",
+    "CurrentStatus": 2,
+    "HoursWorked": 4,
+    "PartsCost": 20,
+    "TotalCost": 80
+  },
+  {
+    "RequestId": 2,
+    "CustomerId": 3,
+    "TechId": 1,
+    "Description": "Electrical ",
+    "ScheduledStart": "2025-12-06T21:52:02.0416667+05:30",
+    "ScheduledEnd": "2025-12-06T23:52:02.0416667+05:30",
+    "CurrentStatus": 1,
+    "HoursWorked": null,
+    "PartsCost": null,
+    "TotalCost": null
+  },
+  {
+    "RequestId": 3,
+    "CustomerId": 1,
+    "TechId": 3,
+    "Description": "Electrical ",
+    "ScheduledStart": "2025-12-06T21:52:02.0416667+05:30",
+    "ScheduledEnd": "2025-12-06T23:52:02.0416667+05:30",
+    "CurrentStatus": 2,
+    "HoursWorked": 3,
+    "PartsCost": 30,
+    "TotalCost": 90
+  },
+  {
+    "RequestId": 4,
+    "CustomerId": 2,
+    "TechId": null,
+    "Description": "HVAC",
+    "ScheduledStart": "2025-12-06T21:52:02.0416667+05:30",
+    "ScheduledEnd": "2025-12-06T23:52:02.0416667+05:30",
+    "CurrentStatus": 0,
+    "HoursWorked": null,
+    "PartsCost": null,
+    "TotalCost": null
+  },
+  {
+    "RequestId": 5,
+    "CustomerId": 1,
+    "TechId": 3,
+    "Description": "Plumbing ",
+    "ScheduledStart": "2025-12-06T21:52:02.0416667+05:30",
+    "ScheduledEnd": "2025-12-06T23:52:02.0416667+05:30",
+    "CurrentStatus": 1,
+    "HoursWorked": null,
+    "PartsCost": null,
+    "TotalCost": null
+  }
+]

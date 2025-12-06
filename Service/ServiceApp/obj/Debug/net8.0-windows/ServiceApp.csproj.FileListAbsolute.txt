@@ -1,0 +1,14 @@
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\bin\Debug\net8.0-windows\ServiceApp.exe
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\bin\Debug\net8.0-windows\ServiceApp.deps.json
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\bin\Debug\net8.0-windows\ServiceApp.runtimeconfig.json
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\bin\Debug\net8.0-windows\ServiceApp.dll
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\bin\Debug\net8.0-windows\ServiceApp.pdb
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\obj\Debug\net8.0-windows\ServiceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\obj\Debug\net8.0-windows\ServiceApp.AssemblyInfoInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\obj\Debug\net8.0-windows\ServiceApp.AssemblyInfo.cs
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\obj\Debug\net8.0-windows\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\obj\Debug\net8.0-windows\ServiceApp.dll
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\obj\Debug\net8.0-windows\refint\ServiceApp.dll
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\obj\Debug\net8.0-windows\ServiceApp.pdb
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\obj\Debug\net8.0-windows\ServiceApp.genruntimeconfig.cache
+C:\Users\darsh\OneDrive\Desktop\Service\ServiceApp\obj\Debug\net8.0-windows\ref\ServiceApp.dll
