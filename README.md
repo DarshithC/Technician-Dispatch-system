@@ -103,28 +103,7 @@ Includes:
 
 ---
 
-## ⚙️ Setup Instructions
 
-### **Prerequisites**
-- .NET 8.0 SDK  
-- Visual Studio Code  
-- Extensions:
-  - C# Dev Kit
-  - C# (Microsoft)
-  - .NET Install Tool
-
----
-
-### **1. Create Project Folder**
-
-```bash
-mkdir ServiceApp
-cd ServiceApp
-2. Create Required Files
-Copy code
-ServiceApp.csproj
-Models.cs
-DispatchManager.cs
 MainForm.cs
 AssignTechForm.cs
 CompleteJobForm.cs
